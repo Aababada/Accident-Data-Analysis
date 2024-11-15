@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load the data
-df = pd.read_csv("D:/US_Accidents_March23.csv")
+df = pd.read_csv("US_Accidents_March23.csv")
 # Explore the data
 print(df.head())
 print(df.info())
